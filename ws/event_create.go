@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
+	"github.com/lflxp/srceego/config"
 	"github.com/rs/xid"
-	"github.com/screego/server/config"
 )
 
 func init() {

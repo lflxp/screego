@@ -12,9 +12,9 @@ import (
 
 	"github.com/joho/godotenv"
 	"github.com/kelseyhightower/envconfig"
+	"github.com/lflxp/srceego/config/ipdns"
+	"github.com/lflxp/srceego/config/mode"
 	"github.com/rs/zerolog"
-	"github.com/screego/server/config/ipdns"
-	"github.com/screego/server/config/mode"
 )
 
 var (
