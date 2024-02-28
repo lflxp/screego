@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+# /build
+bun.lockb
 
 # misc
 .DS_Store
