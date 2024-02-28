@@ -9,16 +9,16 @@
 <p align="center"><i>screen sharing for developers</i></p>
 
 <p align="center">
-    <a href="https://github.com/lflxp/srceego/actions?query=workflow%3Abuild">
-        <img alt="Build Status" src="https://github.com/lflxp/srceego/workflows/build/badge.svg">
+    <a href="https://github.com/lflxp/screego/actions?query=workflow%3Abuild">
+        <img alt="Build Status" src="https://github.com/lflxp/screego/workflows/build/badge.svg">
     </a>
-    <a href="https://goreportcard.com/report/github.com/lflxp/srceego">
-        <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/lflxp/srceego">
+    <a href="https://goreportcard.com/report/github.com/lflxp/screego">
+        <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/lflxp/screego">
     </a>
     <a href="https://hub.docker.com/r/screego/server">
         <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/screego/server.svg">
     </a>
-    <a href="https://github.com/lflxp/srceego/releases/latest">
+    <a href="https://github.com/lflxp/screego/releases/latest">
         <img alt="latest release" src="https://img.shields.io/github/release/screego/server.svg">
     </a>
 </p>
@@ -47,4 +47,4 @@ only helps to share your screen. Nothing else (:.
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the
-[tags on this repository](https://github.com/lflxp/srceego/tags).
+[tags on this repository](https://github.com/lflxp/screego/tags).

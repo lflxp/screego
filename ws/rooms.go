@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/lflxp/srceego/auth"
-	"github.com/lflxp/srceego/config"
-	"github.com/lflxp/srceego/turn"
-	"github.com/lflxp/srceego/util"
+	"github.com/lflxp/screego/auth"
+	"github.com/lflxp/screego/config"
+	"github.com/lflxp/screego/turn"
+	"github.com/lflxp/screego/util"
 	"github.com/rs/zerolog/log"
 )
 

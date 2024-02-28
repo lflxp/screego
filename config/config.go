@@ -12,8 +12,8 @@ import (
 
 	"github.com/joho/godotenv"
 	"github.com/kelseyhightower/envconfig"
-	"github.com/lflxp/srceego/config/ipdns"
-	"github.com/lflxp/srceego/config/mode"
+	"github.com/lflxp/screego/config/ipdns"
+	"github.com/lflxp/screego/config/mode"
 	"github.com/rs/zerolog"
 )
 

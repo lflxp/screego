@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lflxp/srceego/config"
-	"github.com/lflxp/srceego/config/ipdns"
-	"github.com/lflxp/srceego/util"
+	"github.com/lflxp/screego/config"
+	"github.com/lflxp/screego/config/ipdns"
+	"github.com/lflxp/screego/util"
 	"github.com/pion/turn/v2"
 	"github.com/rs/zerolog/log"
 )

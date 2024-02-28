@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/lflxp/srceego/ws/outgoing"
+	"github.com/lflxp/screego/ws/outgoing"
 	"github.com/rs/xid"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"

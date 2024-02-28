@@ -5,8 +5,8 @@ import (
 	"net"
 	"sort"
 
-	"github.com/lflxp/srceego/config"
-	"github.com/lflxp/srceego/ws/outgoing"
+	"github.com/lflxp/screego/config"
+	"github.com/lflxp/screego/ws/outgoing"
 	"github.com/rs/xid"
 )
 

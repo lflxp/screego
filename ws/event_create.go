@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/lflxp/srceego/config"
+	"github.com/lflxp/screego/config"
 	"github.com/rs/xid"
 )
 

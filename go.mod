@@ -1,4 +1,4 @@
-module github.com/lflxp/srceego
+module github.com/lflxp/screego
 
 go 1.18
 
